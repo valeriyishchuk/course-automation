@@ -1,0 +1,9 @@
+﻿1. Installed jre-8u66-windows-i586
+2. Installed eclipse-inst-win64
+3. Installed XMind 7
+4. Installed latest FF
+5. Installed FirePath in FF
+6. Installed FireBug in FF
+7. Installed Jing; oCam
+8. Installed Git repository
+9. Installed Team Viewer 
