@@ -1,0 +1,9 @@
+﻿public class Cinema extends Entertainments {
+    privat int cost;
+    privat int quantityOfSeats;
+    privat int quantityOfTickets;
+	privat String showtimesSchedule;
+public set2DMovie(){};
+public set3DMovie(){};
+public setOriginalLenguage(){};
+}

@@ -1,0 +1,29 @@
+
+public class ClassEntertainments {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		privat int cost;
+	    privat String type;
+	    privat int quantityOfPlayers;
+	    privat int quantityOfTeams;
+		privat String place;
+		privat int timeSpand;
+		privat String seasonal;
+	privat run() {}
+	public int getQuantityOfPlayers() {};
+	public int getQuantityOfTeams() {};
+	public setType (StringType)
+	          {type=newType}
+	public String needForRun(){};
+	public String needForJump(){};
+	public String needForStand(){};
+	public String needForSit(){};
+	public setPlace (StringPlace)
+	          {place=newPlace}
+	public getTimeSpand(){};
+	public setSeasonal(String newSeason)
+	        {seasonal=newSeason}
+	}
+
+}

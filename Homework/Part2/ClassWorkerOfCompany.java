@@ -1,0 +1,28 @@
+
+public class ClassWorkerOfCompany {
+
+	public static void main(String[] args) {
+	privat String name;
+    privat int weight;
+    privat int height;
+    privat int age;
+    privat String position;
+    privat int experienceYear;
+	privat int dateOfRecruiting;
+privat run() {} 
+public int getAge() {}
+public setPoition (int newPosition)
+       {position=newPosition}
+public int getExperienceYear() {}
+public int getDateOfRecruiting() {}
+public String sex;
+public int salary;
+public boolean isMarried;
+public boolean isEducation;
+public String department;
+public setDepartment (int newDepartmetn)
+       {department=newDepartment}
+public boolean isHeadOFDepartment;
+}
+
+}

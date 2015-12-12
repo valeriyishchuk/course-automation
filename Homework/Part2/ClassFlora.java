@@ -1,0 +1,27 @@
+
+public class ClassFlora {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		privat int height;
+		  privat String color;
+		  privat String habitat;
+		  privat String class;
+	      privat String race;
+	      privat String view;
+	      privat String type;
+	      privat String family;
+		  privat String squad;
+	privat run (){};
+	public boolean useForPharmacy;
+	public boolean useForTextileIndustry;
+	public boolean useForConstruction;
+	public boolean needGrowAtHome;
+	public boolean needGrowAtWood;
+	public boolean needGrowAtField;
+	public boolean needWatering;
+	public boolean isLeaf;
+	public boolean isCork
+	}
+
+}
